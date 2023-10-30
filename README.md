@@ -1,3 +1,7 @@
+# Desafio React parte 2
+
+Este código é um componente React que permite aos usuários inserir o nome de uma cidade e, em seguida, buscar e exibir dados de previsão do tempo para essa cidade a partir da API do OpenWeatherMap, apresentando mensagens de status correspondentes ao resultado da solicitação da API.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
